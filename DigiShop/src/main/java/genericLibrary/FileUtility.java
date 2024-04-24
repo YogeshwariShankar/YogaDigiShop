@@ -1,9 +1,15 @@
 package genericLibrary;
 
 import java.io.FileInputStream;
+
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
+
+
+/**
+ * This class is used store datas.
+ */
 
 public class FileUtility {
 
